@@ -1,0 +1,22 @@
+﻿{
+  "Descriptor": {
+    "UId": "1ea4db8d-4f70-40b8-957c-2ddea10426dc",
+    "Name": "UsrTestAngular",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrTestAngular.csproj",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      }
+    ]
+  }
+}

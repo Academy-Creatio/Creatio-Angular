@@ -1,0 +1,36 @@
+= MetaData.Schema.UId "496f873b-d118-40ad-96b0-7c2163bf66cb"
+= MetaData.Schema.A2 "UsrTestAngular_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "810f8f2a-bca7-4e0a-9005-556752ed4999",
+  "A2": "GridDetailRefreshBtn_Attachments_caption",
+  "A3": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A4": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A5": "62d57c95-7e54-4de8-9ce9-c15d4537f04b"
+}
++ MetaData.Schema.B2 {
+  "UId": "38f089cb-8c17-4018-bfe5-f73c27ae4aaf",
+  "A2": "GridDetailAddBtn_Attachments_caption",
+  "A3": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A4": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A5": "62d57c95-7e54-4de8-9ce9-c15d4537f04b"
+}
++ MetaData.Schema.B2 {
+  "UId": "8a72428b-4d21-4275-b940-872743781146",
+  "A2": "AttachmentsTabContainerCaption",
+  "A3": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A4": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A5": "62d57c95-7e54-4de8-9ce9-c15d4537f04b"
+}
++ MetaData.Schema.B2 {
+  "UId": "8863c47b-fc52-4de1-ac54-9ac0ace60f3f",
+  "A2": "FeedTabContainerCaption",
+  "A3": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A4": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+  "A5": "62d57c95-7e54-4de8-9ce9-c15d4537f04b"
+}
+~ MetaData.Schema.B2 ["810f8f2a-bca7-4e0a-9005-556752ed4999","38f089cb-8c17-4018-bfe5-f73c27ae4aaf","8a72428b-4d21-4275-b940-872743781146","8863c47b-fc52-4de1-ac54-9ac0ace60f3f"]
+= MetaData.Schema.B6 "1ea4db8d-4f70-40b8-957c-2ddea10426dc"
+= MetaData.Schema.HD1 "0f8eb896-7b62-4dfa-bd55-a414f50932a7"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

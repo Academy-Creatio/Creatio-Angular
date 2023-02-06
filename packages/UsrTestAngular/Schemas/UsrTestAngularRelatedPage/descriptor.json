@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1f97088a-4f27-4d3c-9fc0-a7e31ed577a4",
+    "Name": "UsrTestAngularRelatedPage",
+    "ModifiedOnUtc": "\/Date(1675705710000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "TestAngular (Page settings)",
+    "DependsOn": []
+  }
+}

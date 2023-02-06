@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8e84ae47-d160-4d81-bddb-47b3b5703f72}") = "KirillPackage", "..\packages\KirillPackage\Files\KirillPackage.csproj", "{809e4626-ece3-4da9-9fb6-5a9859ae0b30}"
+EndProject
+Project("{fe46b660-566f-452a-9682-4f1061113f60}") = "UsrTestAngular", "..\packages\UsrTestAngular\Files\UsrTestAngular.csproj", "{545fdf77-a513-4547-9626-3067a62feeb7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{809e4626-ece3-4da9-9fb6-5a9859ae0b30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{809e4626-ece3-4da9-9fb6-5a9859ae0b30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{809e4626-ece3-4da9-9fb6-5a9859ae0b30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{809e4626-ece3-4da9-9fb6-5a9859ae0b30}.Release|Any CPU.Build.0 = Release|Any CPU
+			{545fdf77-a513-4547-9626-3067a62feeb7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{545fdf77-a513-4547-9626-3067a62feeb7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{545fdf77-a513-4547-9626-3067a62feeb7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{545fdf77-a513-4547-9626-3067a62feeb7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

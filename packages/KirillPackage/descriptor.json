@@ -1,0 +1,12 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c86edae-c984-4b1e-86b2-bc4fd957dfba",
+    "PackageVersion": "7.8.0",
+    "Name": "KirillPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1675703552000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/KirillPackage.csproj",
+    "DependsOn": []
+  }
+}

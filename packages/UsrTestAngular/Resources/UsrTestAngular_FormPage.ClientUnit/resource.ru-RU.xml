@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи TestAngular" />
+			<Item Name="LocalizableStrings.AttachmentsTabContainerCaption.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.FeedTabContainerCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_Attachments_caption.Value" Value="Загрузить" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_Attachments_caption.Value" Value="Обновить" />
+		</Items>
+	</Group>
+</Resources>

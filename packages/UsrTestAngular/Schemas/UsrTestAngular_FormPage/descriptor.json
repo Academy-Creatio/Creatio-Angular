@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "496f873b-d118-40ad-96b0-7c2163bf66cb",
+    "Name": "UsrTestAngular_FormPage",
+    "ModifiedOnUtc": "\/Date(1675708865000)\/",
+    "Parent": {
+      "UId": "0f8eb896-7b62-4dfa-bd55-a414f50932a7",
+      "Name": "PageWithLeftAreaTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "TestAngular form page",
+    "DependsOn": []
+  }
+}

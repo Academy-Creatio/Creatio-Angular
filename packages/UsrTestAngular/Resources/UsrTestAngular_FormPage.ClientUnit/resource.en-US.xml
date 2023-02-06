@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="TestAngular form page" />
+			<Item Name="LocalizableStrings.AttachmentsTabContainerCaption.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.FeedTabContainerCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_Attachments_caption.Value" Value="Upload" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_Attachments_caption.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

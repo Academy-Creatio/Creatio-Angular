@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = KirillPackage
+build_property.ProjectDir = c:\Creatio-Angular\packages\KirillPackage\Files\

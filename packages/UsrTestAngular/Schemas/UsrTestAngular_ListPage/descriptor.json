@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2798c01f-14ab-4677-a090-7bc4e3e41407",
+    "Name": "UsrTestAngular_ListPage",
+    "ModifiedOnUtc": "\/Date(1675705710000)\/",
+    "Parent": {
+      "UId": "a5678241-e5e0-f691-b825-84b6039d5fa2",
+      "Name": "BaseGridSectionTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "TestAngular list page",
+    "DependsOn": []
+  }
+}
